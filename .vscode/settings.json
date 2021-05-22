@@ -1,0 +1,5 @@
+{
+    "diffEditor.wordWrap": "on",
+    "typescript.tsdk": "",
+    "liveServer.settings.port": 5501
+}
